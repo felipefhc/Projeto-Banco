@@ -135,6 +135,5 @@ public class Program
             choice = menuDisplay();
             menuOpcao(choice);
         }
-        Console.WriteLine("TESTE123");
     }
 }
