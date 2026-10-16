@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.Design;
 using System.Xml.Serialization;
 
-namespace Teste;
+namespace Bancofhc;
 
 public class Program
 {
@@ -135,5 +135,6 @@ public class Program
             choice = menuDisplay();
             menuOpcao(choice);
         }
+        Console.WriteLine("TESTE123");
     }
 }

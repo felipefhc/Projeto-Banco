@@ -1,4 +1,4 @@
-namespace Teste;
+namespace Bancofhc;
 
 public class Banco
 {
