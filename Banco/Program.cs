@@ -101,7 +101,7 @@ public class Program
                     {
                         posicaoVetor = i;
 
-                        for (int j = 1; j <= 2; j++)
+                        for (int j = 1; j <= 3; j++)
                         {
 
                             int verificarSenha = LerInteiro($"\nDigite a senha da conta | {listaContas[i].NumConta} | : ");
